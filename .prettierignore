@@ -1,0 +1,17 @@
+# Dependencies
+node_modules
+
+# Production
+dist
+build
+
+# Cache
+.cache
+.parcel-cache
+.next
+.turbo
+
+# Misc
+.DS_Store
+*.log
+coverage
